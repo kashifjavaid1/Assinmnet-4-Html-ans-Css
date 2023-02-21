@@ -1,0 +1,159 @@
+.nav{
+    width: 105%;
+    height: 70px;
+   
+}
+.innernav{
+    width: 1000px;
+    height: 70px;
+    margin: 0px auto;
+}
+.p{
+    margin: 0px;
+    padding: 0px;
+    padding-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size:larger;
+    letter-spacing: 5px;
+}
+.inav{
+    width: 600px;
+    height: 70px;
+    /* background-color: blue; */
+    float: right;
+    margin-top: -47px;
+}
+.inav ul{
+    margin: 0px;
+    padding: 0px;
+}
+.inav ul a{
+    text-decoration: none;
+    color: black;
+}
+.inav ul a li{
+    list-style-type: none;
+    float: left;
+    padding: 25px 22px;
+    font-size: 18px;
+}
+#h1{
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#img1{
+    width: 100%;
+}
+#heading2{
+    padding: 0px 70px; 
+    margin-top: -47px;
+    
+}
+#par{
+    padding: 0px 70px;
+    margin-top: -15px;
+}
+.button{
+    float: right;
+    padding: 0px ;
+    margin-top: -25px;
+}
+.para1{
+    text-align: justify;
+    font-weight: bold;
+}
+#para1{
+    font-weight: bold;
+}
+#figcap{
+text-align: center;
+font-weight: bold;
+}
+#para2{
+    text-align: justify;
+}
+#span1{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#heading3{
+    padding: 0px 70px; 
+    margin-top: -47px;
+    text-indent: 29%;
+}
+#table{
+    
+    border: 2px solid;
+    border-top-style:  solid;
+    border-top-width: 10px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 100%;
+    text-align: center;
+    
+
+}
+#tabp{
+ 
+    text-align: center;
+}
+.butt{
+    color: white;
+    background-color: black;
+    
+}
+.div{
+    color: white;
+    background-color: black;
+    
+}
+.span2{
+   
+    letter-spacing: 2px;
+    color: white;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+.span3{
+    color: white;
+    
+    font-weight: lighter;
+}
+.nor1{
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: large;
+    font-style: italic;
+}
+.nor2{
+    text-align: center;
+    
+}
+#ancer{
+    text-align: center;
+    
+    
+} 
+ #ancer1{
+  
+    word-spacing: 20px; 
+}
+#ancer2{
+    text-decoration-line: underline;
+    text-decoration-color: white;
+   
+}
+    #ancer3{
+        text-decoration-line: underline;
+        text-decoration-color: white;
+      
+    }
+        #ancer4{
+            text-decoration-line: underline;
+            text-decoration-color: white;
+           
+        }
